@@ -71,6 +71,7 @@ body {
   display: none;
   justify-content: center;
   align-items: center;
+  list-style: none;
 }
 .dropdown a {
   color: #BCB8B1;
@@ -79,6 +80,7 @@ body {
   display: block;
   padding-bottom: 0px;
   line-height: 20px;
+
 }
 
 .dropdown a:hover {color: white;}
